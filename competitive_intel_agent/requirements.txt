@@ -1,3 +1,5 @@
 anthropic>=0.50.0
 pydantic>=2.0
 anyio
+python-dotenv
+fpdf2
