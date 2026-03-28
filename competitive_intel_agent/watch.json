@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": "ProsperOps",
+    "your_company": "Archera",
+    "context": "Archera (archera.ai) is a cloud cost optimization platform offering guaranteed savings on AWS, Azure, and GCP through automated commitment management and risk-free reserved instance and savings plan programs.",
+    "output": "battlecards/prosperops.md"
+  },
+  {
+    "competitor": "Cast AI",
+    "your_company": "Archera",
+    "context": "Archera (archera.ai) is a cloud cost optimization platform offering guaranteed savings on AWS, Azure, and GCP through automated commitment management and risk-free reserved instance and savings plan programs.",
+    "output": "battlecards/cast_ai.md"
+  },
+  {
+    "competitor": "Anodot",
+    "your_company": "Archera",
+    "context": "Archera (archera.ai) is a cloud cost optimization platform offering guaranteed savings on AWS, Azure, and GCP through automated commitment management and risk-free reserved instance and savings plan programs.",
+    "output": "battlecards/anodot.md"
+  }
+]

@@ -1,0 +1,5 @@
+anthropic
+feedparser
+httpx
+anyio
+python-dateutil
